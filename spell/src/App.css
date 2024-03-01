@@ -1,0 +1,9 @@
+textarea {
+  width: 350px; /* Set the width to your desired value */
+  height: 100px;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+}
